@@ -5,3 +5,6 @@ content-type: application/json
     "content": "postman is good at testing backend",
     "important": true
 }
+
+###
+GET http://localhost:3001/api/notes
