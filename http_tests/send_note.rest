@@ -3,7 +3,8 @@ content-type: application/json
 
 {
     "content": "postman is good at testing backend",
-    "important": true
+    "important": true,
+    "userId": "6828c71d9119e5493e8f7a41"
 }
 
 ###
